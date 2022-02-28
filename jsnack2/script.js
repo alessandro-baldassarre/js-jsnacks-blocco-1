@@ -1,4 +1,10 @@
 
+/**
+ * 
+   L'utente inserisce due parole in successione, con due prompt.
+   Il software stampa prima la parola più corta, poi la parola più lunga.
+ */
+
 document.getElementById("btn-check").addEventListener("click", function(){
 
 // const firstWord = prompt("Inserisci la prima parola").trim();
